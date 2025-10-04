@@ -1,0 +1,7 @@
+# Telegram Bot Token
+BOT_TOKEN = "8354836773:AAEOaZPm1Kk-yF9G8kiBJo_uIMrVlI1KgqY"  # तुझा Token
+
+# Google Sheets setup
+SHEET_NAME = "Bot Data"          # Sheet चे नाव
+SHEET_ID = "5270905764"          # Sheet ID
+SERVICE_ACCOUNT_FILE = "service_account.json"
